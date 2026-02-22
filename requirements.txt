@@ -1,0 +1,6 @@
+streamlit
+tensorflow-macos
+tensorflow-metal
+keras
+numpy
+nltk
