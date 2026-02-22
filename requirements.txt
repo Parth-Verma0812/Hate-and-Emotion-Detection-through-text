@@ -1,6 +1,5 @@
 streamlit
-tensorflow-macos
-tensorflow-metal
+tensorflow
 keras
 numpy
 nltk
