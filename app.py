@@ -11,8 +11,8 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.text import tokenizer_from_json
 import json
 
-# nltk.download('stopwords')
-# nltk.download('punkt_tab')
+nltk.download('stopwords')
+nltk.download('punkt_tab')
 
 # python -m nltk.downloader stopwords punkt using this line
 with open('tokenizer.json') as f:
